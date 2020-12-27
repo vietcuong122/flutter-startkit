@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>512663597759-knd6eprm8o3ke6jvsqm12m0oogpgenip.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.512663597759-knd6eprm8o3ke6jvsqm12m0oogpgenip</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMrCfOifWkw0HHQT3Es87JjCwrvXOXC_c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>512663597759</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.gitedu.mygarment</string>
+	<key>PROJECT_ID</key>
+	<string>mygarment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mygarment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:512663597759:ios:d522ba209e3998a06fcc0a</string>
+	<key>DATABASE_URL</key>
+	<string>https://mygarment.firebaseio.com</string>
+</dict>
+</plist>
